@@ -15,6 +15,6 @@ Interest in Game Developer and Web Developer
 ---
 [![](https://visitcount.itsvg.in/api?id=deskitex&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username={deskitex}&sort=xp)
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?id={589633430})
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
